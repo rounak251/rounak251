@@ -16,6 +16,7 @@ I build machine learning systems and the **evaluations that test them**: validat
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -24,6 +25,7 @@ I build machine learning systems and the **evaluations that test them**: validat
 ## 📌 Featured projects
 | Project | What it does | Stack |
 |---|---|---|
+| [churn-risk-service](https://github.com/rounak251/churn-risk-service) | End-to-end churn model: calibrated probabilities, a profit-optimal contact policy (+36% profit vs the 0.5 cut-off on held-out data), per-customer explanations, FastAPI + Docker, CI | Python, scikit-learn, LightGBM, FastAPI, Docker |
 | [agent-eval-tasks](https://github.com/rounak251/agent-eval-tasks) | Bug-fix tasks for evaluating AI coding agents: human-style bug reports, hidden behavioural verifiers, oracle fixes, and a quality gate (no-op fails, oracle passes x3, no leakage, no source-grepping tests) | Python, pytest, Docker |
 | [ml-eval-guardrails](https://github.com/rounak251/ml-eval-guardrails) | Tested checks for leaky CV splits, train/test shift, weak graders, non-determinism and metric-optimal decoding | Python, scikit-learn, pytest |
 | [Air-Defense-Tracker](https://github.com/rounak251/Air-Defense-Tracker) | Detects aerial targets in live video and plots range/azimuth on a radar display | Python, YOLOv8, OpenCV, PyQt5 |

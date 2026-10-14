@@ -25,6 +25,7 @@ I build and solve **held-out ML benchmarks**: designing splits, graders and metr
 ## 📌 Featured projects
 | Project | What it does | Stack |
 |---|---|---|
+| [agent-eval-tasks](https://github.com/rounak251/agent-eval-tasks) | Bug-fix tasks for evaluating AI coding agents: human-style bug reports, hidden behavioural verifiers, oracle fixes, and a quality gate (no-op fails, oracle passes x3, no leakage, no source-grepping tests) | Python, pytest, Docker |
 | [ml-eval-guardrails](https://github.com/rounak251/ml-eval-guardrails) | Tested checks for leaky CV splits, train/test shift, weak graders, non-determinism and metric-optimal decoding | Python, scikit-learn, pytest |
 | [Air-Defense-Tracker](https://github.com/rounak251/Air-Defense-Tracker) | Detects aerial targets in live video and plots range/azimuth on a radar display | Python, YOLOv8, OpenCV, PyQt5 |
 | [movie-recommender-system](https://github.com/rounak251/movie-recommender-system) | Content-based movie recommendations from plot, cast, genres and director, with a Streamlit UI | Python, scikit-learn, NLTK, Streamlit |

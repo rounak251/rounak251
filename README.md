@@ -1,9 +1,8 @@
 # Hi, I'm Rounak Choudhary 👋
 
-I build and solve **held-out ML benchmarks**: designing splits, graders and metrics that can't be gamed, then competing on them under fixed compute.
+I build machine learning systems and the **evaluations that test them**: validation splits, verifiers and agent tasks that can't be gamed.
 
-- 🧪 **ML benchmark engineering:** built and solved dozens of held-out ML challenges (vision, NLP, audio, time series, chemistry) on a paid benchmark platform, scored blind on hidden test sets. Several finished top 5.
-- 🔍 **Evaluation auditing:** I find leaks and weak verifiers before they reach a leaderboard. Examples: hidden capture sessions that inflated CV from ~0.5 to 0.98, and negatives sampled from an open pool that leaked the label.
+- 🧪 **Evaluation engineering:** open-source [agent bug-fix tasks with hidden verifiers](https://github.com/rounak251/agent-eval-tasks) and [checks for leaky splits and weak graders](https://github.com/rounak251/ml-eval-guardrails).
 - 🏆 **Kaggle:** competing in [CASMI 2026 molecule identification](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra) (MS/MS spectra → structure ranking).
 - 🧠 **Problem solving:** 217+ LeetCode problems in C++, contest rating ~1580 (top 28%).
 

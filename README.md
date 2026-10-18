@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://github.com/rounak251"><img src="https://komarev.com/ghpvc/?username=rounak251&label=PLAYERS+VISITED&color=16A34A&style=for-the-badge" /></a>
+<a href="https://github.com/rounak251"><img src="https://hits.sh/github.com/rounak251.svg?style=for-the-badge&label=PLAYERS%20VISITED&color=16A34A&labelColor=020617" /></a>
 <a href="https://github.com/rounak251?tab=followers"><img src="https://img.shields.io/github/followers/rounak251?label=PARTY&style=for-the-badge&color=16A34A&labelColor=020617" /></a>
 <a href="https://github.com/rounak251/ml-freelance-portfolio"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_FREELANCE-4ADE80?style=for-the-badge&labelColor=020617"/></a>
 
@@ -68,8 +68,7 @@
 CURRENT QUEST : KAGGLE CASMI 2026
 FOCUS         : ML · EVALUATION · DSA
 STATUS        : OPEN TO FREELANCE
-MODE          : SPLIT → TRAIN → VALIDATE
-                → SHIP
+MODE          : SPLIT → FIT → CHECK
 </pre>
 <p align="center">
 <a href="https://github.com/rounak251/ml-freelance-portfolio"><img src="https://img.shields.io/badge/FREELANCE-HIRE_ME-4ADE80?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/></a>
@@ -102,7 +101,7 @@ MODE          : SPLIT → TRAIN → VALIDATE
 # `> skill_tree`
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#4ADE80','primaryTextColor':'#DCFCE7','lineColor':'#4ADE80','secondaryColor':'#020617','tertiaryColor':'#020617'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'git0':'#4ADE80','gitBranchLabel0':'#020617','cScale1':'#14532D','cScaleLabel1':'#DCFCE7','cScale2':'#164E63','cScaleLabel2':'#DCFCE7','cScale3':'#334155','cScaleLabel3':'#DCFCE7','cScale4':'#065F46','cScaleLabel4':'#DCFCE7','cScaleInv1':'#4ADE80','cScaleInv2':'#4ADE80','cScaleInv3':'#4ADE80','cScaleInv4':'#4ADE80'}}}%%
 mindmap
   root((ROUNAK))
     Machine Learning
@@ -179,6 +178,7 @@ LIMITS     ·  profit assumes a $50 offer, 30% save rate, $800 value
 ```
 
 **⚔️ Weapons:** probability calibration · cost-based thresholds · FastAPI · Docker
+
 **💀 Boss fight:** the default 0.5 cut-off. Once the probabilities are calibrated, a call pays off above 50 / (0.3 × 800) ≈ 0.21. Moving the threshold there is where the extra 36% came from.
 
 ---
@@ -215,6 +215,7 @@ LIMITS     ·  small digits dataset, simulated reviewers
 ```
 
 **⚔️ Weapons:** active learning · consensus labelling · model provenance · FastAPI
+
 **💀 Boss fight:** proving active learning helps at all. The only fair test is equal label budgets against random picks, so that's the benchmark, and it says nothing about real annotation savings.
 
 ---
@@ -253,6 +254,7 @@ LIMITS     ·  4 tasks so far; each bug is small on purpose
 ```
 
 **⚔️ Weapons:** hidden behavioural verifiers · oracle fixes · leakage checks · pytest
+
 **💀 Boss fight:** tests that grep the source. They reward a fix that looks right, so the gate rejects any task whose tests read the code instead of running it.
 
 ---
@@ -289,6 +291,7 @@ LIMITS     ·  24 labels; CV can't see the camera shift
 ```
 
 **⚔️ Weapons:** physical calibration · nested validation · frozen CNN features · Kaggle T4 GPU
+
 **💀 Boss fight:** the public leaderboard came in 21.9 EMD worse than nested CV. Train photos are from Motorola and Samsung phones, test photos from iPhones, and a sample-level split can't measure that shift. The cause isn't proven yet, and the README says so.
 
 ---
@@ -324,6 +327,7 @@ LIMITS     ·  range and azimuth come from box position, not a sensor
 ```
 
 **⚔️ Weapons:** YOLOv8 · OpenCV · PyQt5 · threading
+
 **💀 Boss fight:** keeping the radar sweep smooth while the detector runs. Inference lives on its own thread so the GUI never waits for a frame.
 
 ---

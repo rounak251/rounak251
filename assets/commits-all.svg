@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="commit_log --all-repos: 24 commits in the last 30 days">
+<title>commit_log --all-repos: 24 commits in the last 30 days</title>
+<style>text{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect width="900" height="250" rx="10" fill="#020617"/>
+<rect x="1" y="1" width="898" height="248" rx="9" fill="none" stroke="#1E293B"/>
+<text x="48" y="30" fill="#4ADE80" font-size="15" font-weight="700">&gt; commit_log --all-repos</text>
+<text x="880" y="30" fill="#DCFCE7" font-size="13" text-anchor="end">24 commits · 3/30 active days</text>
+<line x1="48" x2="880" y1="204.0" y2="204.0" stroke="#1E293B"/>
+<text x="40" y="208.0" fill="#64748B" font-size="11" text-anchor="end">0</text>
+<line x1="48" x2="880" y1="155.3" y2="155.3" stroke="#1E293B"/>
+<text x="40" y="159.3" fill="#64748B" font-size="11" text-anchor="end">5</text>
+<line x1="48" x2="880" y1="106.7" y2="106.7" stroke="#1E293B"/>
+<text x="40" y="110.7" fill="#64748B" font-size="11" text-anchor="end">10</text>
+<line x1="48" x2="880" y1="58.0" y2="58.0" stroke="#1E293B"/>
+<text x="40" y="62.0" fill="#64748B" font-size="11" text-anchor="end">15</text>
+<rect x="53.3" y="202" width="17.2" height="2" fill="#166534"/>
+<text x="61.9" y="222" fill="#64748B" font-size="11" text-anchor="middle">19 Sep</text>
+<rect x="81.0" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="108.7" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="136.5" y="174.8" width="17.2" height="29.2" rx="2" fill="#4ADE80"><title>2026-09-22: 3</title></rect>
+<rect x="164.2" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="191.9" y="202" width="17.2" height="2" fill="#166534"/>
+<text x="200.5" y="222" fill="#64748B" font-size="11" text-anchor="middle">24 Sep</text>
+<rect x="219.7" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="247.4" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="275.1" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="302.9" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="330.6" y="202" width="17.2" height="2" fill="#166534"/>
+<text x="339.2" y="222" fill="#64748B" font-size="11" text-anchor="middle">29 Sep</text>
+<rect x="358.3" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="386.1" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="413.8" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="441.5" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="469.3" y="116.4" width="17.2" height="87.6" rx="2" fill="#4ADE80"><title>2026-10-04: 9</title></rect>
+<text x="477.9" y="222" fill="#64748B" font-size="11" text-anchor="middle">04 Oct</text>
+<rect x="497.0" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="524.7" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="552.5" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="580.2" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="607.9" y="202" width="17.2" height="2" fill="#166534"/>
+<text x="616.5" y="222" fill="#64748B" font-size="11" text-anchor="middle">09 Oct</text>
+<rect x="635.7" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="663.4" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="691.1" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="718.9" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="746.6" y="87.2" width="17.2" height="116.8" rx="2" fill="#4ADE80"><title>2026-10-14: 12</title></rect>
+<text x="755.2" y="222" fill="#64748B" font-size="11" text-anchor="middle">14 Oct</text>
+<rect x="774.3" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="802.1" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="829.8" y="202" width="17.2" height="2" fill="#166534"/>
+<rect x="857.5" y="202" width="17.2" height="2" fill="#166534"/>
+<text x="866.1" y="222" fill="#64748B" font-size="11" text-anchor="middle">18 Oct</text>
+<text x="48" y="240" fill="#64748B" font-size="11">13 public repos · UTC · updated 2026-10-18</text>
+</svg>

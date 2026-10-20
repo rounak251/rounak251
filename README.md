@@ -332,6 +332,20 @@ LIMITS     ·  range and azimuth come from box position, not a sensor
 
 ---
 
+## 🤝 OPEN-SOURCE · SKTIME
+
+Pull requests to [sktime](https://github.com/sktime/sktime), the Python time-series library (in review):
+
+| PR | Fix |
+|:---|:---|
+| [#11576](https://github.com/sktime/sktime/pull/11576) | Aggregate time bins separately for each variable |
+| [#11575](https://github.com/sktime/sktime/pull/11575) | Honor keyword arguments in `FunctionTransformer` inverse checks |
+| [#11574](https://github.com/sktime/sktime/pull/11574) | Handle vector offsets in power transformers |
+| [#11573](https://github.com/sktime/sktime/pull/11573) | Vectorize calendar-offset fractions in `FourierFeatures` |
+| [#11571](https://github.com/sktime/sktime/pull/11571) | Add MCDCNN network test parameter coverage |
+
+---
+
 ## 🗺️ SIDE QUESTS
 
 <div align="center">

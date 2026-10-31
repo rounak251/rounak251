@@ -73,6 +73,7 @@ MODE          : SPLIT → FIT → CHECK
 <p align="center">
 <a href="https://github.com/rounak251/ml-freelance-portfolio"><img src="https://img.shields.io/badge/FREELANCE-HIRE_ME-4ADE80?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/></a>
 <br/>
+<a href="https://www.linkedin.com/in/rounak-choudhary-716696313/"><img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/rounakchoudharynitp"><img src="https://img.shields.io/badge/KAGGLE-PROFILE-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
 <a href="https://leetcode.com/u/eFEKtTD0Q3/"><img src="https://img.shields.io/badge/LEETCODE-217_SOLVED-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 <br/>
@@ -139,6 +140,21 @@ Every score I report says which rung it reached. It's my one house rule.
 
 > Same model, same data, from the [ml-eval-guardrails](https://github.com/rounak251/ml-eval-guardrails) demo: random K-fold **1.000**, group K-fold **0.373**.
 > The label was tied to the recording session. Only one of those numbers is real.
+
+---
+
+# `> shipped_products`
+
+<div align="center">
+
+| Product | What it does | Stack |
+|:---|:---|:---|
+| 🛡️ [**Leakproof**](https://github.com/rounak251/leakproof) | SaaS that audits a training set for target leakage, train/test overlap, label noise, shift and the wrong CV split. 0–100 score, ranked fixes, CI gate, static `lint` for leaky code | Python · scikit-learn · FastAPI · Stripe · Claude API |
+| ⚡ [**Tezflow**](https://github.com/rounak251/tezflow) | AI automation agency in one codebase: Speed-to-Lead, AI Front Desk, Inbox Autopilot, Paperwork Robot, Review Responder, plus proposal and ROI tools | Python · LLM workflows · FastAPI · Docker |
+| 🚀 [**Rift Rush**](https://github.com/rounak251/rift-rush) | Neon arcade shooter: seeded upgrade drafts, six synergies, elites and a two-phase boss, daily rifts | TypeScript · Canvas · Android · iOS |
+| 🍔 [**Snack Skyline**](https://github.com/rounak251/snack-skyline) | One-touch food-stacking game with daily seeded challenges and a server-replayed leaderboard backend | JavaScript · Canvas · AWS SAM · DynamoDB |
+
+</div>
 
 ---
 
@@ -515,6 +531,7 @@ rounak@github:~$ fortune
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/rounak-choudhary-716696313/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/rounak251"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.kaggle.com/rounakchoudharynitp"><img src="https://img.shields.io/badge/KAGGLE-Compete-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://leetcode.com/u/eFEKtTD0Q3/"><img src="https://img.shields.io/badge/LEETCODE-Challenge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
